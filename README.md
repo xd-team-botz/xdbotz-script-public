@@ -1,4 +1,4 @@
-## XD BOTZ SCRIPT BY KURRXD OFFICIAL
+## SCRIPT SIMPLE BOT WHATSAPP
 
 
 -----------------------------------------------------

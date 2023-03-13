@@ -1,20 +1,20 @@
 ## BACA DULU BANG
 
-> **Warning**: Sc nya gk support termux. [`Klik disini untuk download sc yg support termux`](https://github.com/zeeoneofficial/Alphabot-Md#For-Termux)
+> **Warning**: SUBS YT GW DULU [`Klik disini untuk download sc yg support termux`](https://youtube.com/@kurrxdofc)
 
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/zeeoneofficial/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://telegra.ph/file/f152177bf55c322885b92.jpg" alt="XD TEAM" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="XD TEAM V1" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/zeeoneofficial/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/KurrXd"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/xd-team-botz/xdbotz-v1"><img title="Team" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofficial?color=red&style=flat-square"></a>

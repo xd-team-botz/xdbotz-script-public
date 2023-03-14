@@ -12,7 +12,7 @@
 <a href="#"><img title="XD TEAM V1" src="https://img.shields.io/badge/XD BOTZ WHATSAPP-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/KurrXd"><img title="Author" src="https://img.shields.io/badge/Author-KurrXd-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://youtube.com/@kurrxdofc"><img title="Author" src="https://img.shields.io/badge/Author-KurrXd-red.svg?style=for-the-badge&logo=youtube"></a>
 </p>
 <p align="center">
 <a href="https://github.com/xd-team-botz/followers"><img title="Followers" src="https://img.shields.io/github/followers/xd-team-botz?color=red&style=flat-square"></a>

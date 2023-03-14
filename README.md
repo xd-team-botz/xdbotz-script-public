@@ -28,7 +28,7 @@
 
 ---
 
-## special tq to :
-[adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
+## DOWNLOAD? :
+[disini](https://github.com/xd-team-botz/xdbotz-v1/archive/refs/heads/main.zip)
 
 

@@ -1,7 +1,7 @@
 {
 "name": "kurrxd",
 "version": "3.0.0",
-"description": "Script By KirBotz WhatsApp",
+"description": "Script By KurrXd WhatsApp",
 "main": "./config/connect.js",
 "type": "commonjs",
 "scripts": {

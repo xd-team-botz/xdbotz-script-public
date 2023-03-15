@@ -30,6 +30,9 @@
 
 ## DOWNLOAD :
 [klik ini untuk download zip](https://github.com/xd-team-botz/xdbotz-v1/archive/refs/heads/main.zip)
-[klik ini untuk download 7z](https://github.com/xd-team-botz/xdbotz-v1/archive/refs/heads/main.7z)
+
+## OFFICIAL GROUP 
+[klik ini untuk gabung](https://chat.whatsapp.com/FSALEynItwA0rMyLIgBA8M)
+
 
 

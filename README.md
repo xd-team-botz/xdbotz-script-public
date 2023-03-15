@@ -34,5 +34,8 @@
 ## OFFICIAL GROUP 
 [klik ini untuk gabung](https://chat.whatsapp.com/FSALEynItwA0rMyLIgBA8M)
 
+## DEVELOPER THIS PROJECT
+- Me (KurrXd)
+
 
 

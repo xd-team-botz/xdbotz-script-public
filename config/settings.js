@@ -5,7 +5,7 @@ global.owner = ['6281220670449'] // no own
 global.author = 'KurrXd' // nama author 
 global.packname = 'xd bot whatsapp' // nama pack sticker
 global.namabot = 'XD BOTZ' // nama bot mu
-global.group = 'https://bit.ly/3ZI51Qk' // grup mu
+global.group = 'grup lu' // grup mu
 
 
 

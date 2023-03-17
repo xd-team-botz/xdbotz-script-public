@@ -6,7 +6,6 @@ global.author = 'KurrXd' // nama author
 global.packname = 'xd bot whatsapp' // nama pack sticker
 global.namabot = 'XD BOTZ' // nama bot mu
 global.group = 'https://bit.ly/3ZI51Qk' // grup mu
-global.pic = 'https://telegra.ph/file/b96926809d93d9f045777.jpg' // logo bot
 
 
 

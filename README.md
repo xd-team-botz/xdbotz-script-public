@@ -37,5 +37,9 @@
 ## DEVELOPER THIS PROJECT
 - (KurrXd)
 
+## thanks to
+- adiwajshing/baileys
+- allah
+
 
 

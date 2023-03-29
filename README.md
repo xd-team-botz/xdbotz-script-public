@@ -44,8 +44,8 @@
 
 
 
-#support on
+##support on
 |    OS    | Availability |  version |
-| :-------------------: | :----------: |
+| :-------------------: | :----------: | :----------: |
 | owner menu      |      ✔️      |  Availability |
 

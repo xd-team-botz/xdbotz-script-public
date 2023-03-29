@@ -45,7 +45,14 @@
 
 
 ##support on
-|    OS    | Availability |  version |
+|    OS    | VERSION |  VERIFIED |
 | :-------------------: | :----------: | :----------: |
-| owner menu      |      ✔️      |  Availability |
+| vps-ubuntu      |      20.04 & 18.04      |  ✔️ |
+| windows-rdp      |      all      |  ✔️ |
+| railway      |      -      |  ✔️ |
+| replit      |      -      |  ✔️ |
+| okteto      |      -      |  ✔️ |
+| panel      |      -      |  ✔️ |
+| termux      |      -      |  ✔️ |
+
 

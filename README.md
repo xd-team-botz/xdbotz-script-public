@@ -37,14 +37,8 @@
 ## DEVELOPER THIS PROJECT
 - (KurrXd)
 
-## thanks to
-- adiwajshing/baileys
-- allah
 
-
-
-
-##support on
+## support on
 |    OS    | VERSION |  VERIFIED |
 | :-------------------: | :----------: | :----------: |
 | vps-ubuntu      |      20.04 & 18.04      |  ✔️ |
@@ -56,3 +50,6 @@
 | termux      |      -      |  ✔️ |
 
 
+## thanks to
+- adiwajshing/baileys
+- allah

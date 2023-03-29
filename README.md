@@ -52,3 +52,12 @@
 | iseng menu      |      ✔️      |
 | random menu      |      ✔️      |
 | image maker menu      |      ✔️      |
+
+#support on
+-ubuntu
+-pterodactyl panel
+-windows
+-termux
+-replit
+-okteto
+-heroku

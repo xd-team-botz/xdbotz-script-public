@@ -51,4 +51,4 @@
 | game menu      |      ✔️      |
 | iseng menu      |      ✔️      |
 | random menu      |      ✔️      |
-| iamge maker menu      |      ✔️      |
+| image maker menu      |      ✔️      |
